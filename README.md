@@ -1,14 +1,17 @@
-<h1 align="center">Hi, I'm Pankaj Chauhan 👋</h1>
-<h3 align="center">Network Security Engineer → AWS SysOps → Cloud Security Engineer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6F8FA,100:E9ECEF&height=140&section=header&text=PANKAJ%20CHAUHAN&fontSize=34&fontColor=24292F&fontAlignY=40&desc=Network%20Security%20Engineer%20%E2%86%92%20AWS%20SysOps%20%E2%86%92%20Cloud%20Security%20Engineer&descAlignY=65&descSize=15&descColor=0969DA&fontFamily=JetBrains+Mono" width="100%" />
+
+</div>
 
 <p align="center">
   <em>Operations background. Security mindset. Cloud focus.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Security-informational?style=flat-square&color=0A66C2" />
-  <img src="https://img.shields.io/badge/Current%20Role-AWS%20SysOps%20Engineer-informational?style=flat-square&color=FF9900" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-informational?style=flat-square&color=2E7D32" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Security-0969DA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Role-AWS%20SysOps%20Engineer-0969DA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0969DA?style=flat-square" />
 </p>
 
 ---
@@ -34,8 +37,6 @@ Network Security Engineer  →  AWS SysOps Engineer  →  Cloud Security Enginee
 
 I'm moving toward roles where security is the primary mandate — not an adjacent responsibility bolted onto operations.
 
----
-
 ### 🧭 Background
 
 | Role | Focus |
@@ -53,70 +54,78 @@ I'm moving toward roles where security is the primary mandate — not an adjacen
 
 **Systems & Networking**
 <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-003366?style=flat-square)
-![Firewalls](https://img.shields.io/badge/Firewalls-B71C1C?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0969DA?style=flat-square)
+![Firewalls](https://img.shields.io/badge/Firewalls-0969DA?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-24292F?style=flat-square&logo=gnubash&logoColor=white)
 
 **Cloud & Virtualization**
 <br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonaws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-24292F?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-24292F?style=flat-square&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-24292F?style=flat-square&logo=docker&logoColor=white)
 
 **Databases & High Availability**
 <br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Patroni](https://img.shields.io/badge/Patroni-HA%20Cluster-336791?style=flat-square)
-![Replication](https://img.shields.io/badge/Streaming%20Replication-336791?style=flat-square)
-![PITR](https://img.shields.io/badge/Backup%20%26%20PITR-336791?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
+![Patroni](https://img.shields.io/badge/Patroni%20HA%20Cluster-0969DA?style=flat-square)
+![Replication](https://img.shields.io/badge/Streaming%20Replication-0969DA?style=flat-square)
+![PITR](https://img.shields.io/badge/Backup%20%26%20PITR-0969DA?style=flat-square)
 
 **Web Infrastructure**
 <br>
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-24292F?style=flat-square&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-0969DA?style=flat-square)
 
 **Security Focus**
 <br>
-![Web App Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-000000?style=flat-square&logo=hackthebox&logoColor=white)
-![API Security](https://img.shields.io/badge/API%20Security-000000?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-000000?style=flat-square)
+![Web App Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-0969DA?style=flat-square)
+![API Security](https://img.shields.io/badge/API%20Security-0969DA?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0969DA?style=flat-square)
 
 **Currently Building**
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-24292F?style=flat-square&logo=ansible&logoColor=white)
 
 ---
+
 <!--
 ### 📌 Featured Work
-
-> _Pin your top 4–6 repositories on your profile so they appear here automatically. Prioritize projects that demonstrate security thinking — e.g. a hardened AWS environment writeup, a documented pentesting lab report, an HA Postgres/Patroni failover setup, or a firewall/network segmentation project. Each should have a clear README explaining the problem, your approach, and tradeoffs — not just code._
--->
-<!--
-- 🔐 [Project Name](link) — one-line description of the security problem it solves
+Pin your top 4–6 repositories on your profile so they appear here automatically.
+Prioritize projects with a clear README explaining problem, approach, and tradeoffs:
+- 🔐 [Project Name](link) — one-line description
 - ☁️ [Project Name](link) — one-line description
 - 🗄️ [Project Name](link) — one-line description
 -->
 
----
-
 ### 📜 Certifications
 
-> Official ISC2 Certified in Cybersecurity (CC)
-  ISC2 London - Issued May 2023
-  Credential ID Official ISC2 Certified in Cybersecurity (CC) Self-Paced Training - 1M
+| Certification | Issuer | Status | Credential ID |
+|---|---|---|---|
+| **ISC2 Certified in Cybersecurity (CC)** | ISC2 London | Issued May 2023 | Self-Paced Training – 1M |
+| **Fortinet NSE 1 — Certified Associate** | Fortinet | Issued May 2023 · Expired May 2025 | KiycOx1aCm |
+| **ICSI Certification** | DefensityOne | Issued May 2020 | 18045297 |
 
-> Fortinet Network Security Expert Level 1: Certified Associate
-  Fortinet - Issued May 2023 · Expired May 2025
-  Credential ID KiycOx1aCm
+---
 
-> ICSI (International Cyber Security Institute)
-  DefensityOne - Issued May 2020
-  Credential ID 18045297
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pankajchauhan-sec&show_icons=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969DA&icon_color=0969DA&text_color=24292F" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajchauhan-sec&layout=compact&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969DA&text_color=24292F" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajchauhan-sec&hide_border=false&border=d0d7de&background=ffffff&stroke=d0d7de&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" width="60%" />
+
+</div>
 
 ---
 
@@ -124,7 +133,6 @@ I'm moving toward roles where security is the primary mandate — not an adjacen
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pankajchauhan12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <!-- Replace the # above with your actual LinkedIn URL -->
 </p>
 
 ---
