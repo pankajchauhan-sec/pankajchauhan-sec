@@ -13,7 +13,7 @@
 
 ---
 
-### 🔎 About Me
+### About Me
 
 I'm an **AWS SysOps Engineer** with a 5+ year background spanning **Network Security Engineering, Network Engineering, Systems Administration, and Network Support**. My career has always sat at the intersection of *keeping systems running* and *keeping systems secure* — and I'm now specializing that intersection into a dedicated **Cloud Security** path.
 
