@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm an **AWS SysOps Engineer** with a 5+ year background spanning **Network Security Engineering, Network Engineering, Systems Administration, and Network Support**. My career has always sat at the intersection of *keeping systems running* and *keeping systems secure* — and I'm now specializing that intersection into a dedicated **Cloud Security** path.
+I'm an **AWS SysOps Engineer** with a 5+ year background spanning **Network Security Engineering, Network Engineering, Network Support, and Systems Administration**. My career has always sat at the intersection of *keeping systems running* and *keeping systems secure* — and I'm now specializing that intersection into a dedicated **Cloud Security** path.
 
 My focus areas right now are **Web Application Security** and **API Security**, which I actively practice through hands-on pentesting. Automation tools like Python and Ansible are things I use to support that work — **cybersecurity is the direction, not DevOps.**
 
@@ -91,11 +91,11 @@ I'm moving toward roles where security is the primary mandate — not an adjacen
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ---
-
+<!--
 ### 📌 Featured Work
 
 > _Pin your top 4–6 repositories on your profile so they appear here automatically. Prioritize projects that demonstrate security thinking — e.g. a hardened AWS environment writeup, a documented pentesting lab report, an HA Postgres/Patroni failover setup, or a firewall/network segmentation project. Each should have a clear README explaining the problem, your approach, and tradeoffs — not just code._
-
+-->
 <!--
 - 🔐 [Project Name](link) — one-line description of the security problem it solves
 - ☁️ [Project Name](link) — one-line description
@@ -106,14 +106,24 @@ I'm moving toward roles where security is the primary mandate — not an adjacen
 
 ### 📜 Certifications
 
-> _Add confirmed or in-progress certifications here (e.g. AWS Security Specialty, CompTIA Security+, CEH, eJPT, CCNA Security). This section carries real weight for cloud security hiring — keep it updated as you progress._
+> Official ISC2 Certified in Cybersecurity (CC)
+  ISC2 London - Issued May 2023
+  Credential ID Official ISC2 Certified in Cybersecurity (CC) Self-Paced Training - 1M
+
+> Fortinet Network Security Expert Level 1: Certified Associate
+  Fortinet - Issued May 2023 · Expired May 2025
+  Credential ID KiycOx1aCm
+
+> ICSI (International Cyber Security Institute)
+  DefensityOne - Issued May 2020
+  Credential ID 18045297
 
 ---
 
 ### 🌐 Connect
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pankajchauhan12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <!-- Replace the # above with your actual LinkedIn URL -->
 </p>
 
