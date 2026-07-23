@@ -112,14 +112,7 @@ Prioritize projects with a clear README explaining problem, approach, and tradeo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pankajchauhan-sec&show_icons=true&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969DA&icon_color=0969DA&text_color=24292F" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajchauhan-sec&layout=compact&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=0969DA&text_color=24292F" width="48%" />
-
-</div>
+### 📊 GitHub Activity
 
 <div align="center">
 
